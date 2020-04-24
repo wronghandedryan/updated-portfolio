@@ -1,0 +1,12 @@
+body {
+background-color: black;
+}
+
+img{
+  max-height:600px;
+  max-width: 280px;
+}
+#personal-statement{
+padding: 20px;
+margin: 30px;
+}
